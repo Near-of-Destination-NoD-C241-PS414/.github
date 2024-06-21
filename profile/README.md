@@ -1,5 +1,8 @@
 ![Logo](https://github.com/Near-of-Destination-NoD-C241-PS414/.github/blob/main/profile/nod-logo.jpeg)
 
+# NoD Near of Destination Capstone Project
+NoD (Near Of Destination) is a project with the theme of digital experience transformation in sustainable tourism. This project is an Android application that helps users in determining tourist destinations based on the closest distance from the user through recommendations based on Filtering Features such as Distance, Type of Tourism, and Reviews. With an application that is easy to use and understand by users, and in making this project integrates 3 Learning Paths namely ML, CC, and MD.
+
 ## Team Member :
 
 | ID           | Name                             | Learning Path | Profile |
